@@ -1,0 +1,7 @@
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\hw1\obj\Debug\hw1.csproj.AssemblyReference.cache
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\hw1\bin\Debug\hw1.exe.config
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\hw1\bin\Debug\hw1.exe
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\hw1\bin\Debug\hw1.pdb
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\hw1\obj\Debug\hw1.exe
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\hw1\obj\Debug\hw1.pdb
