@@ -1,0 +1,7 @@
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\List\bin\Debug\List.exe.config
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\List\bin\Debug\List.exe
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\List\bin\Debug\List.pdb
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\List\obj\Debug\List.exe
+C:\Users\SHAITOOT\OneDrive\Desktop\IM\List\obj\Debug\List.pdb
