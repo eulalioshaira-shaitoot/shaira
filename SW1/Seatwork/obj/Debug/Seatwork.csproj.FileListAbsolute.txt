@@ -1,0 +1,7 @@
+C:\Users\SHAITOOT\source\repos\Seatwork\bin\Debug\Seatwork.exe.config
+C:\Users\SHAITOOT\source\repos\Seatwork\bin\Debug\Seatwork.exe
+C:\Users\SHAITOOT\source\repos\Seatwork\bin\Debug\Seatwork.pdb
+C:\Users\SHAITOOT\source\repos\Seatwork\obj\Debug\Seatwork.csproj.AssemblyReference.cache
+C:\Users\SHAITOOT\source\repos\Seatwork\obj\Debug\Seatwork.csproj.CoreCompileInputs.cache
+C:\Users\SHAITOOT\source\repos\Seatwork\obj\Debug\Seatwork.exe
+C:\Users\SHAITOOT\source\repos\Seatwork\obj\Debug\Seatwork.pdb
