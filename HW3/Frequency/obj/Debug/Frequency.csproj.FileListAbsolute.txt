@@ -1,0 +1,7 @@
+C:\Users\SHAITOOT\source\repos\Frequency\bin\Debug\Frequency.exe.config
+C:\Users\SHAITOOT\source\repos\Frequency\bin\Debug\Frequency.exe
+C:\Users\SHAITOOT\source\repos\Frequency\bin\Debug\Frequency.pdb
+C:\Users\SHAITOOT\source\repos\Frequency\obj\Debug\Frequency.csproj.AssemblyReference.cache
+C:\Users\SHAITOOT\source\repos\Frequency\obj\Debug\Frequency.csproj.CoreCompileInputs.cache
+C:\Users\SHAITOOT\source\repos\Frequency\obj\Debug\Frequency.exe
+C:\Users\SHAITOOT\source\repos\Frequency\obj\Debug\Frequency.pdb
