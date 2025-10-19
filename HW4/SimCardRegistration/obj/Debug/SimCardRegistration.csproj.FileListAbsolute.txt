@@ -1,0 +1,11 @@
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\bin\Debug\SimCardRegistration.exe.config
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\bin\Debug\SimCardRegistration.exe
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\bin\Debug\SimCardRegistration.pdb
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.csproj.AssemblyReference.cache
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.FormRegistration.resources
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.Properties.Resources.resources
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.csproj.GenerateResource.cache
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.csproj.CoreCompileInputs.cache
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.exe
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.pdb
+C:\Users\SHAITOOT\source\repos\SimCardRegistration\obj\Debug\SimCardRegistration.detailsForm.resources
